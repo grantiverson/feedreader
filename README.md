@@ -14,6 +14,6 @@ This feedreader aggregates posts from various sources using AJAX:
 ## Getting started
 
 In order to run the application:
-1. Clone the git project using the url: https://github.com/grantiverson/feedreader.git
+1. Clone the git project using `$ git clone https://github.com/grantiverson/feedreader.git`
 2. Navigate to the root directory for the project
 3. Open index.html in your favorite browser
