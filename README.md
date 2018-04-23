@@ -5,6 +5,7 @@ This project was completed as a requirement for my Front-End Web Development Nan
 ## About the Feedreader
 
 This feedreader aggregates posts from various sources using AJAX:
+(Some links need an RSS reader to view)
 * Udacity Blog @ http://blog.udacity.com/feed
 * CSS Tricks @ http://feeds.feedburner.com/CssTricks
 * HTML5 Rocks @ http://feeds.feedburner.com/html5rocks
